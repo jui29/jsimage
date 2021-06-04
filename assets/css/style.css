@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height: 50px;
+    width:50px;
+    margin: 10px;
+}
